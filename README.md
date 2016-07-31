@@ -26,3 +26,10 @@ Abaixo as categorias, explicando um pouco sobre cada fonte.
    * **shell_quick.c**: Exemplo de ordenação de vetores, utilizando Shell Sort e/ou Quick Sort
 7. Travar Computador
    * **travar.c**: Fonte escrito, com laço de repetição infinito chamando aplicação para travar o sistema operacional
+   
+   
+####Fontes
+1. Jogo da Véia
+   * **veia.c**: Jogo da Velha tradicional, desenvolvido para rodar em Windows e Linux
+2. Pinta Pinta
+   * **pinta.c**: Jogo básico para pintar posições do terminal

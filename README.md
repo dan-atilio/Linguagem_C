@@ -19,12 +19,14 @@ Abaixo as categorias, explicando um pouco sobre cada fonte.
    * **pilha_lifo.c**: Exemplo de PILHA (LIFO - Last In, First Out)
 4. Lendo Arquivos
    * **arquivo.c**: Exemplo de leitura de arquivo texto
-5. Lista Encadeada
+5. Letreiro
+   * **letreiro.c**: Exemplo de letreiro de strings
+6. Lista Encadeada
    * **lista.c**: Exemplo de criação e manipulação de Lista Encadeada
-6. Ordenações
+7. Ordenações
    * **ordenacoes.c**: Exemplo de ordenação de vetores, utilizando Selection Sort, Inserction Sort e/ou Bubble Sort
    * **shell_quick.c**: Exemplo de ordenação de vetores, utilizando Shell Sort e/ou Quick Sort
-7. Travar Computador
+8. Travar Computador
    * **travar.c**: Fonte escrito, com laço de repetição infinito chamando aplicação para travar o sistema operacional
    
    

@@ -35,3 +35,11 @@ Abaixo as categorias, explicando um pouco sobre cada fonte.
    * **veia.c**: Jogo da Velha tradicional, desenvolvido para rodar em Windows e Linux
 2. Pinta Pinta
    * **pinta.c**: Jogo básico para pintar posições do terminal
+   
+####Vídeo Aulas
+   * 001 - Compilador no Linux
+      * **aula_01.c**: Aula de exemplo na instalação do Compilador no Linux
+   * 003 - Estrutura de Programas
+	  * **aula_03.c**: Exemplo de estrutura básica de programa em C
+   * 004 - Mostrando e Lendo Mensagens
+      * **aula_04.c**: Exemplo de Mostrar Mensagens e Ler digitação do usuário através de printf e scanf

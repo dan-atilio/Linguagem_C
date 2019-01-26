@@ -1,5 +1,4 @@
-![Ti Logo](http://terminaldeinformacao.com/wp-content/uploads/2016/03/tema.jpg)
-[Terminal de Informação](http://terminaldeinformacao.com)
+Saiba mais em - [Terminal de Informação](http://terminaldeinformacao.com)
 
 # Linguagem C
 Fontes desenvolvidos utilizando a linguagem C com intuito de auxiliar e ajudar estudantes com exemplos de rotinas, utilizando a GPL como licença padrão.

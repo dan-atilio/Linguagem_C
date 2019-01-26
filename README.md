@@ -4,6 +4,12 @@ Saiba mais em - [Terminal de Informação](http://terminaldeinformacao.com)
 Fontes desenvolvidos utilizando a linguagem C com intuito de auxiliar e ajudar estudantes com exemplos de rotinas, utilizando a GPL como licença padrão.
 Abaixo as categorias, explicando um pouco sobre cada fonte.
 
+####Base de Conhecimento
+   * **exemplo_for.c**: Laço de Repetição for (para)
+   * **exemplo_printf.c**: Função printf (mostrar mensagem)
+   * **exemplo_scanf.c**: Função scanf (ler teclado)
+   * **exemplo_system.c**: Função system (executar algo do sistema operacional)
+
 ####Bibliotecas
    * **cmpfnc.h**: Biblioteca de Exemplo com funções como itoa, substr e trim
 
@@ -29,7 +35,7 @@ Abaixo as categorias, explicando um pouco sobre cada fonte.
    * **travar.c**: Fonte escrito, com laço de repetição infinito chamando aplicação para travar o sistema operacional
    
    
-####Fontes
+####Jogos
 1. Jogo da Véia
    * **veia.c**: Jogo da Velha tradicional, desenvolvido para rodar em Windows e Linux
 2. Pinta Pinta

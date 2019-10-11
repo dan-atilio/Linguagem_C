@@ -5,10 +5,7 @@ Fontes desenvolvidos utilizando a linguagem C com intuito de auxiliar e ajudar e
 Abaixo as categorias, explicando um pouco sobre cada fonte.
 
 ####Base de Conhecimento
-   * **exemplo_for.c**: Laço de Repetição for (para)
-   * **exemplo_printf.c**: Função printf (mostrar mensagem)
-   * **exemplo_scanf.c**: Função scanf (ler teclado)
-   * **exemplo_system.c**: Função system (executar algo do sistema operacional)
+Fontes com exemplos de funções
 
 ####Bibliotecas
    * **cmpfnc.h**: Biblioteca de Exemplo com funções como itoa, substr e trim
